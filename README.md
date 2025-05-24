@@ -78,8 +78,3 @@ The dataset was restructured and cleaned using the following steps:
 - Navigation buttons embedded on each dashboard page for guided analysis.
 - Metrics are calculated based on cleaned and validated data to ensure report integrity.
 
----
-
-## Contact
-
-For questions or access to the source data, please contact the dashboard creator or the data analytics team.
