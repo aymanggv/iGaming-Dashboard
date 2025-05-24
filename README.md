@@ -1,6 +1,6 @@
 # iGaming Performance & Strategy Dashboard
 
-**Dashboard Link**: [Click here to access the dashboard](https://public.tableau.com/app/profile/ayman.gundru/viz/Book1_17469997268340/PerformanceOvervi)
+**Dashboard Link**: [Click here to access the dashboard](https://public.tableau.com/app/profile/ayman.gundru/viz/Book1_17469997268340/PerformanceOverview?publish=yes)
 
 ## Overview
 
